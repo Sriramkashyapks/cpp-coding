@@ -2,7 +2,7 @@ How to run the code?
 
 install git on your local system using command line (you can refer the github documentation)
 
-type the code on your terminal
+type the code on your terminal/power shell
 
 git clone https://github.com/Sriramkashyapks/cpp-coding.git
 
